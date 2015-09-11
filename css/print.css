@@ -1,0 +1,4 @@
+/* Print Styles */
+@media print {
+    @import url("print_no_media.css");
+}
